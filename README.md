@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <!-- saved from url=(0030)https://rishabh9931.github.io/nb2bpay.github.io/ -->
 <html oncontextmenu="return false" xmlns="http://www.w3.org/1999/xhtml" class="fontawesome-i2svg-active fontawesome-i2svg-complete"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <!--Start of Tawk.to Script-->
