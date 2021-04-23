@@ -396,7 +396,7 @@ s0.parentNode.insertBefore(s1,s0);
                             <h3>Indo Nepal Money Transfer   </h3>
                             <div class="s_line"></div>
                             <p>Nepal and India are two separate countries and it was compulsory for oneto visit thebranch of any bank to transfer money from India to Nepal. As earlier, it     </p>
-                            <div class="read_more"><a href="https://rishabh9931.github.io/nb2bpay.github.io/indonepalmonetytransfer.html">Read More</a></div>
+                            <div class="read_more"><a href="https://rishabh9931.github.io/nb2bpay.github.i/indonepalmonetytransfer.html">Read More</a></div>
                         </div>
                     </div>
                 </div>
