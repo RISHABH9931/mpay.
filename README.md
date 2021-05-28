@@ -94,7 +94,7 @@ s0.parentNode.insertBefore(s1,s0);
                                  
                                 <div>
                                     <h3>
-                                        <span id="lblheading"><b>	Intoducing Quick and Easy Way for Recharge and Banking.</b></span></h3>
+                                        <span id="lblheading"><b>	Welcome to MoneyPay .</b></span></h3>
                                 </div>
                                 <p>
                                     <span id="lbltext">.</span>
