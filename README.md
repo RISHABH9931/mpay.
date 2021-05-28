@@ -312,7 +312,7 @@ s0.parentNode.insertBefore(s1,s0);
                             <h3>All Recharge  </h3>
                             <div class="s_line"></div>
                             <p>Today Mobile phones have become an integral part of our lives and recharging it has become an everyday need for many. Through our website, you get the    </p>
-                            <div class="read_more"><a href="https://www.digitalpay.comicp/recharge.html">Read More</a></div>
+                            <div class="read_more"><a href=" ">Read More</a></div>
                         </div>
                     </div>
 
@@ -324,7 +324,7 @@ s0.parentNode.insertBefore(s1,s0);
                             <h3>Money Transfer  </h3>
                             <div class="s_line"></div>
                             <p>Need to transfer money to a colleague, friends, family or someone else? Need it to be easy, breezy, and fun? This is the platform for you. Money transferring     </p>
-                            <div class="read_more"><a href="https://rishabh9931.github.io/nb2bpay.github.io/moneytransfer.html">Read More</a></div>
+                            <div class="read_more"><a href=" ">Read More</a></div>
                         </div>
                     </div>
                     <div class="col-sm-3">
@@ -335,7 +335,7 @@ s0.parentNode.insertBefore(s1,s0);
                             <h3>AEPS  </h3>
                             <div class="s_line"></div>
                             <p>Aadhaar Enabled Payment System is a significant stepping stone in making India digital. This system basically allows the clients to provide Aadhaar as the     </p>
-                            <div class="read_more"><a href="https://rishabh9931.github.io/nb2bpay.github.io/aeps.html">Read More</a></div>
+                            <div class="read_more"><a href=" ">Read More</a></div>
                         </div>
                     </div>
                     <div class="col-sm-3">
@@ -346,7 +346,7 @@ s0.parentNode.insertBefore(s1,s0);
                             <h3>BBPS   </h3>
                             <div class="s_line"></div>
                             <p>Long gone are the days when you had to go to 8 different places to fill the 7 different bills that came to your house. Be it electricity, broadband,     </p>
-                            <div class="read_more"><a href="https://rishabh9931.github.io/nb2bpay.github.io/bbps.html">Read More</a></div>
+                            <div class="read_more"><a href=" ">Read More</a></div>
                         </div>
                     </div>
                 </div>
@@ -360,7 +360,7 @@ s0.parentNode.insertBefore(s1,s0);
                             <h3>Credit Card Bill Payment   </h3>
                             <div class="s_line"></div>
                             <p>Credit cards have become the life force of many people. And why not? They make buying expensive things easier and more convenient.      </p>
-                            <div class="read_more"><a href="https://rishabh9931.github.io/nb2bpay.github.io/creditcardbillpay.html">Read More</a></div>
+                            <div class="read_more"><a href=" ">Read More</a></div>
                         </div>
                     </div>
 
@@ -372,7 +372,7 @@ s0.parentNode.insertBefore(s1,s0);
                             <h3>Insurance Bill Payment  </h3>
                             <div class="s_line"></div>
                             <p>Insurances are one way of making you feel a bit more secure in life. Insurances like death insurance, health insurance or others give you control over your      </p>
-                            <div class="read_more"><a href="https://rishabh9931.github.io/nb2bpay.github.io/insurancebillpay.html">Read More</a></div>
+                            <div class="read_more"><a href=" ">Read More</a></div>
                         </div>
                     </div>
 
@@ -384,7 +384,7 @@ s0.parentNode.insertBefore(s1,s0);
                             <h3>Pan Card   </h3>
                             <div class="s_line"></div>
                             <p>Pan Card is essential for a working and non-working person. PAN stands for Permanent Account Number. It is a way of tracking the income of the people     </p>
-                            <div class="read_more"><a href="https://rishabh9931.github.io/nb2bpay.github.io/pancard.html">Read More</a></div>
+                            <div class="read_more"><a href=" ">Read More</a></div>
                         </div>
                     </div>
 
@@ -396,7 +396,7 @@ s0.parentNode.insertBefore(s1,s0);
                             <h3>Indo Nepal Money Transfer   </h3>
                             <div class="s_line"></div>
                             <p>Nepal and India are two separate countries and it was compulsory for oneto visit thebranch of any bank to transfer money from India to Nepal. As earlier, it     </p>
-                            <div class="read_more"><a href="https://rishabh9931.github.io/nb2bpay.github.i/indonepalmonetytransfer.html">Read More</a></div>
+                            <div class="read_more"><a href=" ">Read More</a></div>
                         </div>
                     </div>
                 </div>
@@ -410,7 +410,7 @@ s0.parentNode.insertBefore(s1,s0);
                             <h3>Hathway Cable Tv Recharge  </h3>
                             <div class="s_line"></div>
                             <p>In today's time,Cable Television can be found in every home. To continue enjoying the cable tv services it is important for the user to pay monthly bills. There are many      </p>
-                            <div class="read_more"><a href="https://rishabh9931.github.io/nb2bpay.github.io/hathwaycabletvrecharge.html">Read More</a></div>
+                            <div class="read_more"><a href=" ">Read More</a></div>
                         </div>
                     </div>
 
@@ -422,7 +422,7 @@ s0.parentNode.insertBefore(s1,s0);
                             <h3>Loan   </h3>
                             <div class="s_line"></div>
                             <p>Loans are one of the best and fastest ways of raising instant money. Whether you are starting a new business, buying a house or car, you can get a loan for that. There are many companies out there who     </p>
-                            <div class="read_more"><a href="https://rishabh9931.github.io/nb2bpay.github.io/loan.html">Read More</a></div>
+                            <div class="read_more"><a href=" ">Read More</a></div>
                         </div>
                     </div>
 
@@ -434,7 +434,7 @@ s0.parentNode.insertBefore(s1,s0);
                             <h3>Account Opening   </h3>
                             <div class="s_line"></div>
                             <p>We have launched a service that enables our users to open an account online at any bank without any difficulty. All you need to do is fill out the online application form to have the best banking     </p>
-                            <div class="read_more"><a href="https://rishabh9931.github.io/nb2bpay.github.io/accountopening.html">Read More</a></div>
+                            <div class="read_more"><a href=" ">Read More</a></div>
                         </div>
                     </div>
 
@@ -446,7 +446,7 @@ s0.parentNode.insertBefore(s1,s0);
                             <h3>Aadhaar Download by Biomatric   </h3>
                             <div class="s_line"></div>
                             <p>Indian citizens need an Aadhaar Card to use government welfare facilities. This very document contains the basic information of an individual, including his    </p>
-                            <div class="read_more"><a href="https://rishabh9931.github.io/nb2bpay.github.io/adhardownloadbybiomatric.html">Read More</a></div>
+                            <div class="read_more"><a href=" ">Read More</a></div>
                         </div>
                     </div>
 
@@ -459,10 +459,10 @@ s0.parentNode.insertBefore(s1,s0);
                                 <h5 class="headin5_amrc col_white_amrc pt2">Main Menus </h5>
                                 <!--headin5_amrc-->
                                 <ul class="footer_ul_amrc">
-                                    <li><a href="https://rishabh9931.github.io/nb2bpay.github.io/index.aspx">Home </a></li>
-                                    <li><a href="https://rishabh9931.github.io/nb2bpay.github.io/aboutus.html">About Us </a></li>
-                                    <li><a href="https://rishabh9931.github.io/nb2bpay.github.io/termsandconditions.html">Terms &amp; Conditions </a></li>
-                                    <li><a href="https://rishabh9931.github.io/nb2bpay.github.io/contactus.html">Contact Us</a></li>
+                                    <li><a href=" ">Home </a></li>
+                                    <li><a href="https://www.nb2bitsolution.com/aboutus.html">About Us </a></li>
+                                    <li><a href="http://www.b2b.nb2bitsolution.com/user-agreement.php">Terms &amp; Conditions </a></li>
+                                    <li><a href="https://www.nb2bitsolution.com/contact.html">Contact Us</a></li>
                                 </ul>
                                 <h5 class="headin5_amrc col_white_amrc pt2">Our Services </h5>
                                 <ul class="footer_ul_amrc">
